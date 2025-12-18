@@ -30,10 +30,6 @@ O sistema segue uma arquitetura limpa, separando responsabilidades entre Control
 * ✅ Definição de tamanho (pixels).
 * ✅ Armazenamento seguro e escalável no AWS S3.
 
-## 📷 Demonstração
-
-![Demonstração](.github/images/demo-qrcode.gif)
-
 🛠️ Como Executar o Projeto
 
 ### Pré-requisitos
